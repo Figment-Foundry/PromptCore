@@ -294,7 +294,7 @@ PromptCore's category detection layer ensures that adversarial or ambiguous prom
 
 ```bash
 # 1. Clone
-git clone https://github.com/BlinkVoid/PromptCore.git
+git clone https://github.com/Figment-Foundry/PromptCore.git
 cd PromptCore
 
 # 2. Install dependencies
